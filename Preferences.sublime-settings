@@ -1,7 +1,8 @@
 {
-	"font_size": 17,
-	"ignored_packages":
-	[
-	],
-	"vintage_ctrl_keys": true
+  "ensure_newline_at_eof_on_save": true,
+  "font_size": 17,
+  "ignored_packages":
+  [
+  ],
+  "vintage_ctrl_keys": true,
 }
