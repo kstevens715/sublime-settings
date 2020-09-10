@@ -6,7 +6,6 @@
 	"installed_packages":
 	[
 		"Git",
-		"Package Control",
-		"Sync Settings"
+		"Package Control"
 	]
 }
